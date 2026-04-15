@@ -1,0 +1,31 @@
+timestamp,zone,gaz,valeur,seuil,niveau,emoji,AQI_zone,action
+2026-04-13 23:51,Nador Port,NO2,0.00010479466221841602,7e-05,ORANGE,🟡,377.5,Surveillance renforcée recommandée
+2026-04-13 23:51,Nador Port,SO2,0.00018409892550897694,0.00015,ROUGE,🟠,377.5,Notification autorités environnementales
+2026-04-13 23:51,Nador Port,CO,0.08010404913785009,0.07,CRITIQUE,🔴,377.5,INTERVENTION IMMÉDIATE — Fermeture partielle
+2026-04-13 23:51,Mohammedia,NO2,9.303561552135354e-05,7e-05,ORANGE,🟡,320.1,Surveillance renforcée recommandée
+2026-04-13 23:51,Mohammedia,SO2,0.00017627636328133373,0.00015,ROUGE,🟠,320.1,Notification autorités environnementales
+2026-04-13 23:51,Mohammedia,CO,0.055550451536493066,0.05,ROUGE,🟠,320.1,Notification autorités environnementales
+2026-04-13 23:51,Fès Zone Ind,SO2,0.00010117577643523653,8e-05,ORANGE,🟡,276.3,Surveillance renforcée recommandée
+2026-04-13 23:51,Fès Zone Ind,CO,0.044290343834861835,0.03,ORANGE,🟡,276.3,Surveillance renforcée recommandée
+2026-04-13 23:51,Casablanca Centre,NO2,7.856496004003924e-05,7e-05,ORANGE,🟡,258.6,Surveillance renforcée recommandée
+2026-04-13 23:51,Laâyoune,NO2,8.080398302901268e-05,7e-05,ORANGE,🟡,256.0,Surveillance renforcée recommandée
+2026-04-13 23:51,Laâyoune,SO2,0.0001661443924626179,0.00015,ROUGE,🟠,256.0,Notification autorités environnementales
+2026-04-13 23:51,Laâyoune,CO,0.04045519682860353,0.03,ORANGE,🟡,256.0,Surveillance renforcée recommandée
+2026-04-13 23:51,Jorf Lasfar,NO2,7.86783728996998e-05,7e-05,ORANGE,🟡,248.9,Surveillance renforcée recommandée
+2026-04-13 23:51,Jorf Lasfar,SO2,0.0001339066745409245,8e-05,ORANGE,🟡,248.9,Surveillance renforcée recommandée
+2026-04-13 23:51,Jorf Lasfar,CO,0.052891986623998265,0.05,ROUGE,🟠,248.9,Notification autorités environnementales
+2026-04-13 23:51,Safi OCP,NO2,0.00010348092127116753,7e-05,ORANGE,🟡,238.6,Surveillance renforcée recommandée
+2026-04-13 23:51,Safi OCP,SO2,0.00015713125375805433,0.00015,ROUGE,🟠,238.6,Notification autorités environnementales
+2026-04-13 23:51,Safi OCP,CO,0.041038276046291254,0.03,ORANGE,🟡,238.6,Surveillance renforcée recommandée
+2026-04-13 23:51,Oujda,NO2,7.90076560513195e-05,7e-05,ORANGE,🟡,228.1,Surveillance renforcée recommandée
+2026-04-13 23:51,Oujda,SO2,0.00011320749428877094,8e-05,ORANGE,🟡,228.1,Surveillance renforcée recommandée
+2026-04-13 23:51,Oujda,CO,0.043092215498806284,0.03,ORANGE,🟡,228.1,Surveillance renforcée recommandée
+2026-04-13 23:51,Settat,NO2,7.199327976287586e-05,7e-05,ORANGE,🟡,225.1,Surveillance renforcée recommandée
+2026-04-13 23:51,Settat,SO2,9.59198750836961e-05,8e-05,ORANGE,🟡,225.1,Surveillance renforcée recommandée
+2026-04-13 23:51,Settat,CO,0.04430906675190929,0.03,ORANGE,🟡,225.1,Surveillance renforcée recommandée
+2026-04-13 23:51,Khénifra,NO2,8.85797378013217e-05,7e-05,ORANGE,🟡,204.8,Surveillance renforcée recommandée
+2026-04-13 23:51,Khénifra,SO2,8.437797914015952e-05,8e-05,ORANGE,🟡,204.8,Surveillance renforcée recommandée
+2026-04-13 23:51,Khénifra,CO,0.03781559974337868,0.03,ORANGE,🟡,204.8,Surveillance renforcée recommandée
+2026-04-13 23:51,El Jadida,CO,0.035731076775359534,0.03,ORANGE,🟡,182.4,Surveillance renforcée recommandée
+2026-04-13 23:51,Taourirt,SO2,8.461801650010266e-05,8e-05,ORANGE,🟡,158.0,Surveillance renforcée recommandée
+2026-04-13 23:51,Kénitra,CO,0.03288952716284318,0.03,ORANGE,🟡,150.2,Surveillance renforcée recommandée

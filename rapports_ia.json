@@ -1,0 +1,178 @@
+{
+  "Jorf Lasfar (OCP)": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Jorf Lasfar (OCP)\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Chimie/Phosphates | Taille : Grande\n\nSITUATION ACTUELLE\n  Emissions    : 3409.2 tCO2/jour | 1,244,372 tCO2/an\n  Intensite    : 1327 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 71% EN DESSOUS CIBLE\n  Part ENR     : 12%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 163,784 tCO2/an (13.2% de reduction)\n  Economies    : 228,974,008 MAD/an\n  Equiv. arbres: 6,551,375 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 12% -> 27%\n  CO2 evite : 63,407 tCO2/an\n  Economies : 63,289,508 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition DIRECTE — certifier Scope 1+2 URGENT\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 3409.238295356162,
+      "co2_evite_an": 163784.3947075152,
+      "eco_mad_an": 228974008.14327955
+    }
+  },
+  "El Jadida": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — El Jadida\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Port/Chimie | Taille : Moyenne\n\nSITUATION ACTUELLE\n  Emissions    : 1282.2 tCO2/jour | 468,001 tCO2/an\n  Intensite    : 782 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 75% EN DESSOUS CIBLE\n  Part ENR     : 14%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 104,811 tCO2/an (22.4% de reduction)\n  Economies    : 143,910,573 MAD/an\n  Equiv. arbres: 4,192,424 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 14% -> 29%\n  CO2 evite : 41,142 tCO2/an\n  Economies : 40,376,629 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition Moderee — preparer documentation GHG\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 1282.1942709234268,
+      "co2_evite_an": 104810.61206655925,
+      "eco_mad_an": 143910573.06747562
+    }
+  },
+  "Safi Industrial": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Safi Industrial\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Phosphates | Taille : Grande\n\nSITUATION ACTUELLE\n  Emissions    : 2523.0 tCO2/jour | 920,878 tCO2/an\n  Intensite    : 1241 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 70% EN DESSOUS CIBLE\n  Part ENR     : 15%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 133,981 tCO2/an (14.5% de reduction)\n  Economies    : 182,048,619 MAD/an\n  Equiv. arbres: 5,359,254 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 15% -> 30%\n  CO2 evite : 52,166 tCO2/an\n  Economies : 50,084,036 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition DIRECTE — certifier Scope 1+2 URGENT\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 2522.9541212202043,
+      "co2_evite_an": 133981.35588253295,
+      "eco_mad_an": 182048618.71390605
+    }
+  },
+  "Mohammedia Port": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Mohammedia Port\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Raffinerie | Taille : Grande\n\nSITUATION ACTUELLE\n  Emissions    : 2364.9 tCO2/jour | 863,174 tCO2/an\n  Intensite    : 687 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 76% OK\n  Part ENR     : 5%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 218,045 tCO2/an (25.3% de reduction)\n  Economies    : 300,264,142 MAD/an\n  Equiv. arbres: 8,721,809 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 5% -> 20%\n  CO2 evite : 85,846 tCO2/an\n  Economies : 84,822,818 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition Moderee — preparer documentation GHG\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 2364.858991842777,
+      "co2_evite_an": 218045.2412869357,
+      "eco_mad_an": 300264141.6566383
+    }
+  },
+  "Casablanca Industrial Zone": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Casablanca Industrial Zone\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Industrie mixte | Taille : Grande\n\nSITUATION ACTUELLE\n  Emissions    : 1275.8 tCO2/jour | 465,661 tCO2/an\n  Intensite    : 732 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 68% EN DESSOUS CIBLE\n  Part ENR     : 18%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 112,742 tCO2/an (24.2% de reduction)\n  Economies    : 157,325,190 MAD/an\n  Equiv. arbres: 4,509,697 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 18% -> 33%\n  CO2 evite : 43,349 tCO2/an\n  Economies : 42,925,136 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition Moderee — preparer documentation GHG\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 1275.782771018968,
+      "co2_evite_an": 112742.44182049707,
+      "eco_mad_an": 157325189.79004505
+    }
+  },
+  "Nouaceur / Midparc": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Nouaceur / Midparc\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Aeronautique | Taille : Moyenne\n\nSITUATION ACTUELLE\n  Emissions    : 775.4 tCO2/jour | 283,006 tCO2/an\n  Intensite    : 928 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 88% OK\n  Part ENR     : 30%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 34,532 tCO2/an (12.2% de reduction)\n  Economies    : 43,408,397 MAD/an\n  Equiv. arbres: 1,381,293 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 30% -> 40%\n  CO2 evite : 13,561 tCO2/an\n  Economies : 13,717,003 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition Moderee — preparer documentation GHG\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 775.3580454982969,
+      "co2_evite_an": 34532.33387419715,
+      "eco_mad_an": 43408396.84092271
+    }
+  },
+  "Berrechid Industrial Zone": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Berrechid Industrial Zone\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Agroalimentaire | Taille : Moyenne\n\nSITUATION ACTUELLE\n  Emissions    : 536.3 tCO2/jour | 195,756 tCO2/an\n  Intensite    : 971 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 67% EN DESSOUS CIBLE\n  Part ENR     : 20%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 36,372 tCO2/an (18.6% de reduction)\n  Economies    : 50,062,505 MAD/an\n  Equiv. arbres: 1,454,865 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 20% -> 35%\n  CO2 evite : 14,014 tCO2/an\n  Economies : 13,613,585 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition Moderee — preparer documentation GHG\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 536.3167096452958,
+      "co2_evite_an": 36371.64027504109,
+      "eco_mad_an": 50062504.885249496
+    }
+  },
+  "Settat Industrial Zone": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Settat Industrial Zone\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Cimenterie | Taille : Moyenne\n\nSITUATION ACTUELLE\n  Emissions    : 2579.7 tCO2/jour | 941,583 tCO2/an\n  Intensite    : 928 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 75% OK\n  Part ENR     : 10%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 173,011 tCO2/an (18.4% de reduction)\n  Economies    : 243,398,129 MAD/an\n  Equiv. arbres: 6,920,420 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 10% -> 25%\n  CO2 evite : 67,518 tCO2/an\n  Economies : 68,476,956 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition DIRECTE — certifier Scope 1+2 URGENT\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 2579.6786037131324,
+      "co2_evite_an": 173010.51387117925,
+      "eco_mad_an": 243398129.20379564
+    }
+  },
+  "Kenitra Industrial Zone": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Kenitra Industrial Zone\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Automobile | Taille : Grande\n\nSITUATION ACTUELLE\n  Emissions    : 1423.8 tCO2/jour | 519,696 tCO2/an\n  Intensite    : 688 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 79% OK\n  Part ENR     : 22%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 134,364 tCO2/an (25.9% de reduction)\n  Economies    : 178,921,104 MAD/an\n  Equiv. arbres: 5,374,572 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 22% -> 37%\n  CO2 evite : 53,697 tCO2/an\n  Economies : 50,995,606 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition Moderee — preparer documentation GHG\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 1423.8257313670965,
+      "co2_evite_an": 134364.3064035845,
+      "eco_mad_an": 178921103.55938154
+    }
+  },
+  "Tangier Med": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Tangier Med\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Port/Logistique | Taille : Grande\n\nSITUATION ACTUELLE\n  Emissions    : 1352.2 tCO2/jour | 493,545 tCO2/an\n  Intensite    : 1269 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 73% EN DESSOUS CIBLE\n  Part ENR     : 20%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 68,006 tCO2/an (13.8% de reduction)\n  Economies    : 94,197,503 MAD/an\n  Equiv. arbres: 2,720,256 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 20% -> 35%\n  CO2 evite : 26,530 tCO2/an\n  Economies : 26,261,207 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition Moderee — preparer documentation GHG\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 1352.176864134758,
+      "co2_evite_an": 68006.42211352219,
+      "eco_mad_an": 94197503.17532353
+    }
+  },
+  "Tangier Automotive City": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Tangier Automotive City\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Automobile | Taille : Grande\n\nSITUATION ACTUELLE\n  Emissions    : 1618.2 tCO2/jour | 590,660 tCO2/an\n  Intensite    : 767 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 82% OK\n  Part ENR     : 22%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 121,522 tCO2/an (20.6% de reduction)\n  Economies    : 160,397,790 MAD/an\n  Equiv. arbres: 4,860,877 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 22% -> 37%\n  CO2 evite : 52,193 tCO2/an\n  Economies : 51,987,941 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition Moderee — preparer documentation GHG\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 1618.2476031912583,
+      "co2_evite_an": 121521.9288359419,
+      "eco_mad_an": 160397789.97880217
+    }
+  },
+  "Tetouan Industrial Zone": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Tetouan Industrial Zone\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Textile | Taille : Petite\n\nSITUATION ACTUELLE\n  Emissions    : 310.3 tCO2/jour | 113,263 tCO2/an\n  Intensite    : 697 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 67% EN DESSOUS CIBLE\n  Part ENR     : 25%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 30,585 tCO2/an (27.0% de reduction)\n  Economies    : 40,355,624 MAD/an\n  Equiv. arbres: 1,223,402 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 25% -> 40%\n  CO2 evite : 11,921 tCO2/an\n  Economies : 10,965,662 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition Moderee — preparer documentation GHG\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 310.3089651698706,
+      "co2_evite_an": 30585.07491468009,
+      "eco_mad_an": 40355624.19193761
+    }
+  },
+  "Nador West Med": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Nador West Med\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Siderurgie | Taille : Moyenne\n\nSITUATION ACTUELLE\n  Emissions    : 2216.3 tCO2/jour | 808,959 tCO2/an\n  Intensite    : 629 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 72% EN DESSOUS CIBLE\n  Part ENR     : 8%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 225,545 tCO2/an (27.9% de reduction)\n  Economies    : 312,604,873 MAD/an\n  Equiv. arbres: 9,021,786 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 8% -> 23%\n  CO2 evite : 87,782 tCO2/an\n  Economies : 86,822,536 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition DIRECTE — certifier Scope 1+2 URGENT\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 2216.326685151459,
+      "co2_evite_an": 225544.67383703782,
+      "eco_mad_an": 312604872.99672204
+    }
+  },
+  "Oujda Industrial Zone": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Oujda Industrial Zone\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Ciment | Taille : Petite\n\nSITUATION ACTUELLE\n  Emissions    : 1468.0 tCO2/jour | 535,819 tCO2/an\n  Intensite    : 687 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 71% EN DESSOUS CIBLE\n  Part ENR     : 10%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 144,427 tCO2/an (27.0% de reduction)\n  Economies    : 190,566,541 MAD/an\n  Equiv. arbres: 5,777,085 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 10% -> 25%\n  CO2 evite : 56,860 tCO2/an\n  Economies : 52,676,230 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition DIRECTE — certifier Scope 1+2 URGENT\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 1467.997037417276,
+      "co2_evite_an": 144427.14889429958,
+      "eco_mad_an": 190566541.06212512
+    }
+  },
+  "Fes Industrial Zone": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Fes Industrial Zone\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Tannerie | Taille : Moyenne\n\nSITUATION ACTUELLE\n  Emissions    : 329.8 tCO2/jour | 120,385 tCO2/an\n  Intensite    : 683 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 65% EN DESSOUS CIBLE\n  Part ENR     : 16%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 32,852 tCO2/an (27.3% de reduction)\n  Economies    : 44,236,898 MAD/an\n  Equiv. arbres: 1,314,080 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 16% -> 31%\n  CO2 evite : 12,654 tCO2/an\n  Economies : 11,895,241 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition Moderee — preparer documentation GHG\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 329.82274163893965,
+      "co2_evite_an": 32852.00621195932,
+      "eco_mad_an": 44236898.42570638
+    }
+  },
+  "Meknes Industrial Zone": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Meknes Industrial Zone\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Agroalimentaire | Taille : Petite\n\nSITUATION ACTUELLE\n  Emissions    : 370.0 tCO2/jour | 135,043 tCO2/an\n  Intensite    : 675 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 72% EN DESSOUS CIBLE\n  Part ENR     : 20%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 35,059 tCO2/an (26.0% de reduction)\n  Economies    : 48,598,436 MAD/an\n  Equiv. arbres: 1,402,357 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 20% -> 35%\n  CO2 evite : 13,651 tCO2/an\n  Economies : 13,508,571 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition Moderee — preparer documentation GHG\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 369.9812780463896,
+      "co2_evite_an": 35058.93205369193,
+      "eco_mad_an": 48598436.02020771
+    }
+  },
+  "Khouribga": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Khouribga\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Phosphates | Taille : Grande\n\nSITUATION ACTUELLE\n  Emissions    : 2254.6 tCO2/jour | 822,938 tCO2/an\n  Intensite    : 971 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 73% EN DESSOUS CIBLE\n  Part ENR     : 15%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 155,583 tCO2/an (18.9% de reduction)\n  Economies    : 205,058,281 MAD/an\n  Equiv. arbres: 6,223,339 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 15% -> 30%\n  CO2 evite : 61,584 tCO2/an\n  Economies : 57,181,563 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition DIRECTE — certifier Scope 1+2 URGENT\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 2254.624682639631,
+      "co2_evite_an": 155583.47754294952,
+      "eco_mad_an": 205058281.0965145
+    }
+  },
+  "Beni Mellal Industrial Zone": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Beni Mellal Industrial Zone\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Sucrerie | Taille : Petite\n\nSITUATION ACTUELLE\n  Emissions    : 532.0 tCO2/jour | 194,187 tCO2/an\n  Intensite    : 787 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 65% EN DESSOUS CIBLE\n  Part ENR     : 18%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 46,677 tCO2/an (24.0% de reduction)\n  Economies    : 61,712,307 MAD/an\n  Equiv. arbres: 1,867,060 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 18% -> 33%\n  CO2 evite : 18,113 tCO2/an\n  Economies : 16,660,425 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition Moderee — preparer documentation GHG\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 532.0180948631065,
+      "co2_evite_an": 46676.506783974815,
+      "eco_mad_an": 61712306.506986186
+    }
+  },
+  "Marrakech Industrial Zone": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Marrakech Industrial Zone\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Textile | Taille : Petite\n\nSITUATION ACTUELLE\n  Emissions    : 238.7 tCO2/jour | 87,119 tCO2/an\n  Intensite    : 667 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 64% EN DESSOUS CIBLE\n  Part ENR     : 25%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 22,534 tCO2/an (25.9% de reduction)\n  Economies    : 32,935,873 MAD/an\n  Equiv. arbres: 901,349 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 25% -> 40%\n  CO2 evite : 8,454 tCO2/an\n  Economies : 8,822,728 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition Moderee — preparer documentation GHG\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 238.68235989506434,
+      "co2_evite_an": 22533.728573819957,
+      "eco_mad_an": 32935873.3642306
+    }
+  },
+  "Agadir Industrial Zone": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Agadir Industrial Zone\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Agroalimentaire | Taille : Petite\n\nSITUATION ACTUELLE\n  Emissions    : 569.2 tCO2/jour | 207,742 tCO2/an\n  Intensite    : 899 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 71% EN DESSOUS CIBLE\n  Part ENR     : 20%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 42,714 tCO2/an (20.6% de reduction)\n  Economies    : 56,374,384 MAD/an\n  Equiv. arbres: 1,708,553 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 20% -> 35%\n  CO2 evite : 16,824 tCO2/an\n  Economies : 15,597,097 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition Moderee — preparer documentation GHG\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 569.1554834705028,
+      "co2_evite_an": 42713.83377561943,
+      "eco_mad_an": 56374383.56875333
+    }
+  },
+  "Laayoune Industrial Zone": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Laayoune Industrial Zone\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Phosphates | Taille : Moyenne\n\nSITUATION ACTUELLE\n  Emissions    : 1447.7 tCO2/jour | 528,410 tCO2/an\n  Intensite    : 626 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 73% EN DESSOUS CIBLE\n  Part ENR     : 15%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 143,304 tCO2/an (27.1% de reduction)\n  Economies    : 204,382,579 MAD/an\n  Equiv. arbres: 5,732,155 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 15% -> 30%\n  CO2 evite : 55,405 tCO2/an\n  Economies : 56,976,516 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : ARRET VEILLE\n  Couper 8% stand-by IoT | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition DIRECTE — certifier Scope 1+2 URGENT\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 1447.698717755528,
+      "co2_evite_an": 143303.87949544913,
+      "eco_mad_an": 204382578.59646833
+    }
+  },
+  "Dakhla Industrial Zone": {
+    "rapport": "\nRAPPORT CARBON INTELLIGENCE — Dakhla Industrial Zone\n============================================================\nGenere le : 14/04/2026 23:41\nSecteur   : Peche | Taille : Petite\n\nSITUATION ACTUELLE\n  Emissions    : 174.4 tCO2/jour | 63,655 tCO2/an\n  Intensite    : 819 gCO2/kWh ELEVEE (>600)\n  OEE actuel   : 60% EN DESSOUS CIBLE\n  Part ENR     : 28%\n\nPOTENTIEL DE REDUCTION\n  CO2 evitable : 13,228 tCO2/an (20.8% de reduction)\n  Economies    : 18,931,646 MAD/an\n  Equiv. arbres: 529,137 arbres plantes\n\nACTION PRIORITAIRE : PASSAGE ENR\n  ENR 28% -> 40%\n  CO2 evite : 4,302 tCO2/an\n  Economies : 4,198,357 MAD/an\n  ROI       : 0 mois\n\nACTION N2 : AMELIORATION OEE\n  OEE 60% -> 68% | ROI 0 mois\n\nCONFORMITE REGLEMENTAIRE\n  CBAM : Exposition Moderee — preparer documentation GHG\n  ISO 14064 : Mise en place recommandee sous 6 mois\n  NDC Maroc : Alignement objectif -32% GES d ici 2030\n\nROADMAP 3 ANS\n  0-3 mois  : IoT + arret veille + baseline certifiee\n  3-12 mois : Decalage prod hors-pointe + OEE\n  An 2      : PV/eolien autoconsomme (cible 30% ENR)\n  An 3      : ISO 14064 + marche carbone volontaire\n============================================================",
+    "kpis": {
+      "co2_j": 174.3976337638489,
+      "co2_evite_an": 13228.446230759644,
+      "eco_mad_an": 18931645.61170037
+    }
+  }
+}
